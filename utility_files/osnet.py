@@ -1,3 +1,9 @@
+'''
+This file is taken from https://github.com/KaiyangZhou/deep-person-reid
+
+This file consists the coded architecture of OSNet.
+'''
+
 from __future__ import division, absolute_import
 import warnings
 import torch
